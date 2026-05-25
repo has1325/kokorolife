@@ -1,0 +1,31 @@
+kind = "web"
+previewPath = "/"
+title = "Kokoro Life Support"
+version = "1.0.0"
+id = "artifacts/kokoro-life-support"
+router = "path"
+
+[[integratedSkills]]
+name = "react-vite"
+version = "1.0.0"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 22638
+
+[services.development]
+run = "pnpm --filter @workspace/kokoro-life-support run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/kokoro-life-support", "run", "build" ]
+publicDir = "artifacts/kokoro-life-support/dist/public"
+serve = "static"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "22638"
+BASE_PATH = "/"

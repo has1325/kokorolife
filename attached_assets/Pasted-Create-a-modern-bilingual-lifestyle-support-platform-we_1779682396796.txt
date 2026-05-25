@@ -1,0 +1,241 @@
+Create a modern bilingual lifestyle support platform website called 
+“Kokoro Life Support”.
+
+The website is for people preparing to live in Korea or Japan.
+It should feel warm, professional, modern, calm, trustworthy, and premium.
+
+Style reference:
+- Similar to modern counseling/support center websites
+- Clean Korean + Japanese aesthetic
+- Soft cream background
+- Deep green primary color
+- Rounded corners
+- Elegant shadows
+- Spacious layout
+- Premium UI
+- Responsive mobile-friendly design
+
+Tech Stack:
+- Next.js
+- Tailwind CSS
+- Framer Motion
+- Responsive Design
+- Clean modern typography
+- Component-based structure
+
+Main Goal:
+A platform that supports:
+- Korea life support
+- Japan life support
+- Settlement consultation
+- Communication coaching
+- Online video counseling
+- Foreign resident support
+
+================================
+MAIN NAVIGATION
+================================
+
+Top Header Menu:
+- Home
+- Japan Life Support
+- Korea Life Support
+- Settlement Consultation
+- Blog
+- Reviews
+- Contact
+
+Right side buttons:
+- KakaoTalk Consultation
+- Book Consultation
+
+Sticky transparent header on scroll.
+
+================================
+HOME PAGE
+================================
+
+Hero Section:
+Large modern hero layout.
+
+LEFT SIDE:
+Small text:
+“Korea ↔ Japan Lifestyle Support Platform”
+
+Large title:
+“Korea and Japan,
+Prepare Your New Life Together.”
+
+Description:
+Support for Japan employment, long-term stay, settlement support,
+communication coaching, and lifestyle adaptation.
+
+Buttons:
+- Book Consultation
+- Explore Services
+
+Small feature icons below:
+- 1:1 Support
+- Online Video Consultation
+- Korea/Japan Simultaneous Support
+
+RIGHT SIDE:
+Large warm consultation image.
+Rounded corner image style.
+Modern floating Korea/Japan card overlay.
+
+Below Hero:
+4 large service cards:
+1. Lifestyle Support
+2. Settlement Consultation
+3. Communication Coaching
+4. Online Consultation
+
+Each card should have:
+- modern icon
+- short description
+- hover effect
+- rounded design
+
+================================
+JAPAN LIFE SUPPORT PAGE
+================================
+
+Hero image with Japanese city background.
+
+Sections:
+- Housing Support
+- Visa Information
+- Daily Life Guide
+- Transportation Guide
+- Communication Support
+- Job Preparation
+
+Include:
+- service cards
+- FAQ section
+- recommendation section
+- warm modern layout
+
+================================
+KOREA LIFE SUPPORT PAGE
+================================
+
+Hero section with Seoul city background.
+
+Sections:
+- Korean Housing Guide
+- Foreigner Registration
+- Transportation Support
+- 생활 정보
+- Hospital Guide
+- Daily Korean Life
+
+Modern clean card layout.
+
+================================
+SETTLEMENT CONSULTATION PAGE
+================================
+
+Warm consultation-style design.
+
+Include:
+- 상담 분야 cards
+- 1:1 consultation flow
+- process timeline
+- online Zoom support
+- emotional support style layout
+
+Consultation categories:
+- Lifestyle Adaptation
+- Communication Coaching
+- Long-term Stay Consultation
+- Family Consultation
+- Foreign Resident Support
+
+================================
+BLOG PAGE
+================================
+
+Modern blog grid layout.
+
+Categories:
+- Japan Life
+- Korea Life
+- Visa
+- Housing
+- Culture
+- Communication
+
+Large thumbnail cards with:
+- image
+- title
+- short preview
+- date
+
+================================
+REVIEWS PAGE
+================================
+
+Modern testimonial design.
+
+Large review cards:
+- profile image
+- stars
+- customer review
+- category tag
+
+Filter tabs:
+- Japan Support
+- Korea Support
+- Settlement Consultation
+
+Clean premium review section.
+
+================================
+CONTACT PAGE
+================================
+
+Modern contact page.
+
+Include:
+- KakaoTalk
+- LINE
+- Email
+- Phone
+- Consultation form
+
+Large rounded form section.
+Warm minimal design.
+
+================================
+DESIGN REQUIREMENTS
+================================
+
+Colors:
+- Deep Green (#0F3D3E)
+- Cream
+- Soft Beige
+- White
+
+Design style:
+- Minimal
+- Premium
+- Calm
+- Counseling center aesthetic
+- Korea/Japan modern style
+
+Animations:
+- Smooth fade-in
+- Hover transitions
+- Floating cards
+- Smooth scrolling
+
+IMPORTANT:
+- Make it look like a real premium startup website
+- Use realistic UI sections
+- Use high-quality placeholder images
+- Fully responsive
+- Production-quality design
+- Modern spacing and typography
+- Elegant and emotional atmosphere

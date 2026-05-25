@@ -1,0 +1,38 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "v-s1od1oh6QknIn0FIbEx"
+uri = "file://artifacts/kokoro-life-support/public/hero-consultation.png"
+type = "image"
+title = "Consultation in living room"
+
+[[generated]]
+id = "NQoApDMCgPXGPPXPK_Ik2"
+uri = "file://artifacts/kokoro-life-support/public/japan-hero.png"
+type = "image"
+title = "Tokyo at golden hour"
+
+[[generated]]
+id = "X4UcPEFU0ectcxHulbm2_"
+uri = "file://artifacts/kokoro-life-support/public/korea-hero.png"
+type = "image"
+title = "Seoul at sunset"
+
+[[generated]]
+id = "W9dvRANBcWcyolB_3JGFN"
+uri = "file://artifacts/kokoro-life-support/public/blog-1.png"
+type = "image"
+title = "Person with passport and laptop"
+
+[[generated]]
+id = "o-4XWtrJRPWk_pSxPGNSx"
+uri = "file://artifacts/kokoro-life-support/public/blog-2.png"
+type = "image"
+title = "Moving boxes in bright apartment"
+
+[[generated]]
+id = "7zQ9563Cd8hPPNbx-BMry"
+uri = "file://artifacts/kokoro-life-support/public/blog-3.png"
+type = "image"
+title = "Handshake in bright office"
